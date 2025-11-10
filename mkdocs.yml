@@ -1,6 +1,8 @@
 site_name: Hello World
-site_url: https://daniel.github.io/pagetest
-theme: readthedocs
+site_url: https://dhammon.github.io/pagetest
+
+theme:
+  name: dracula
 
 nav:
   - Home: index.md
