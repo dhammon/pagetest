@@ -4,4 +4,12 @@
          <loc>https://daniel.github.io/pagetest/</loc>
          <lastmod>2025-11-10</lastmod>
     </url>
+    <url>
+         <loc>https://daniel.github.io/pagetest/chapter1/</loc>
+         <lastmod>2025-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://daniel.github.io/pagetest/chapter2/</loc>
+         <lastmod>2025-11-10</lastmod>
+    </url>
 </urlset>
